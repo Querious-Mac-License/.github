@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://d2l5v8ibvnnoh9.cloudfront.net/assets/querious/icon_300x300-0a2eb1906d3b68a43b6114dfa99aa33a73f4d4f8c0e1bb70222fa9f4beebf326.png" width="200" alt="Querious macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Querious">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Querious">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Querious macOS page">
  </a><br><br>
  <div align="center">
